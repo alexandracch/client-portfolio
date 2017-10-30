@@ -149,13 +149,21 @@ img.proyect {
   margin-bottom: 60px;
 }
 
+.conteiner-two {
+  text-align: center;
+  align-items: center;
+}
+.portfolio {
+  text-align: center;
+}
+
+
 /*Tercera seccion*/
 .third-section {
   align-items: center;
   text-align: center;
   background: rgb(24,188,156);
 }
-
 
 .conteiner-three{
   margin-top: 50px;
@@ -187,7 +195,7 @@ button {
   padding-right: 30px;
   color: #fff;
   background: rgb(24,188,156);
-  font-family: sans-serif;
+  font-family: 'Spinnaker', sans-serif;
   font-size: 16px;
   margin-bottom: 96px;
   border: solid;
@@ -210,7 +218,10 @@ button {
 .fourth-section .conteiner-three h2 .contact-me {
   color: rgb(33,37,41);
 }
-
+.text-about {
+  margin-left: 190px;
+  margin-right: 190px;
+}
 input {
   font-size: 25px;
   width: 600px;
@@ -284,6 +295,7 @@ div .parts {
   width: 100%;
   height: 350px;
   background:  #345;
+  text-align: center;
 }
 
 .parts a.start{
@@ -293,11 +305,12 @@ div .parts {
 .copyright {
   display:block;
   color: #fff;
+  text-align: center;
 }
 
 .conteiner-networks {
+  text-align: center;
   display: inline-block;
-
 }
 
 /*Footer copyright*/
