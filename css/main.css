@@ -15,6 +15,9 @@
   box-sizing: border-box;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
 body {
   margin: 0 auto;
 
@@ -34,7 +37,10 @@ a {
 a.principal-a {
   font-size: 23px;
 }
-
+.start-bootstrap {
+  display: inline-block;
+  width: 50px;
+}
 .principal-a {
     margin-top: 50px;
 }
@@ -164,6 +170,7 @@ img.proyect {
 
 .about {
   color: #fff;
+  text-transform: uppercase
 }
 
 .text {
@@ -190,6 +197,10 @@ button {
 /**/
 
 /*Contact me*/
+
+.contact-me {
+  text-transform: uppercase
+}
 
 .fourth-section {
   text-align: center;
