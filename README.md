@@ -165,3 +165,29 @@ estructura de carpetas y archivos donde colocarás tu código.
 * Sacar dirección del footer: **30min-1h**
 
 * Cambiar de fuente: **15min**
+
+
+## Modificaciones
+
+* Añadir una quinta receta.  
+
+* Mejorar arquitectura de HTML para que se pueda entender sin CSS.  
+
+
+## Plan para cumplir las Modificaciones  
+
+* Identificar los problemas de arquitectura en el index principal.  
+
+* Implementar un quinto enlace en la web de recetas.  
+
+## Problemas en HTML  
+
+* Letras en mayúscula. **15min**
+
+* Header: **Enlistar**  **30min**
+
+* No todo el body tiene el mismo margen: **Porfolio** **30h**  
+
+* Todos los íconos tienen que estar en una sola línea: **Footer**  **30min**  
+
+* Los textos tienen que entenderse: **Footer** **20min** 
