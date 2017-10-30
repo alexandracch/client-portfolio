@@ -270,6 +270,8 @@ input {
   display:inline-block;
   color: #fff;
   border-radius: 50%;
+  font-size: 30px;
+  margin:5px;
 }
 
 a.networks-icons:hover {
