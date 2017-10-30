@@ -190,4 +190,10 @@ estructura de carpetas y archivos donde colocarás tu código.
 
 * Todos los íconos tienen que estar en una sola línea: **Footer**  **30min**  
 
-* Los textos tienen que entenderse: **Footer** **20min** 
+* Los textos tienen que entenderse: **Footer** **20min**  
+
+## Final  
+
+* Hora: **4:55**  
+
+* Lo aprendido: **Priorizar**   
